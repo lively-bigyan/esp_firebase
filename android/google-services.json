@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1083568745416",
+    "firebase_url": "https://mushroom-db-25d81.firebaseio.com",
+    "project_id": "mushroom-db-25d81",
+    "storage_bucket": "mushroom-db-25d81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083568745416:android:f37c68ab3298199f89aefd",
+        "android_client_info": {
+          "package_name": "com.example.esp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083568745416-olfud9luvq7cbfqiu0p2504uj1mvgnek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esp_firebase",
+            "certificate_hash": "1e704d2e8a4ff752137ff92759257f1c7af4881f"
+          }
+        },
+        {
+          "client_id": "1083568745416-e2253r43ibg475fsk0qnkq5oa83l7kd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMly_GLbvH4rXqMhoXdqE8OTcH-Mt_zX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083568745416-e2253r43ibg475fsk0qnkq5oa83l7kd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
